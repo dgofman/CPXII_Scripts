@@ -160,8 +160,8 @@ Windows Audio,Auto,Running
 Windows Biometric Service,Auto,Stopped
 Windows Camera Frame Server,Manual,Stopped
 Windows Connection Manager,Auto,Running
-Windows Defender Network Inspection Service,Manual,Stopped
-Windows Defender Service,Manual,Stopped
+Windows Defender Network Inspection Service,Manual,Running
+Windows Defender Service,Manual,Running
 Windows Driver Foundation - User-mode Driver Framework,Manual,Running
 Windows Encryption Provider Host Service,Manual,Stopped
 Windows Error Reporting Service,Manual,Stopped
