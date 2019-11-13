@@ -99,12 +99,12 @@ Quality Windows Audio Video Experience,Manual,Stopped
 Radio Management Service,Manual,Stopped
 Remote Access Auto Connection Manager,Manual,Stopped
 Remote Access Connection Manager,Manual,Stopped
-Remote Desktop Configuration,Manual,Running
-Remote Desktop Services UserMode Port Redirector,Manual,Running
-Remote Desktop Services,Manual,Running
+Remote Desktop Configuration,Manual,Stopped
+Remote Desktop Services UserMode Port Redirector,Manual,Stopped
+Remote Desktop Services,Disabled,Stopped
 Remote Procedure Call (RPC) Locator,Manual,Stopped
 Remote Procedure Call (RPC),Auto,Running
-Remote Registry,Auto,Stopped
+Remote Registry,Disabled,Stopped
 Resultant Set of Policy Provider,Manual,Stopped
 Routing and Remote Access,Disabled,Stopped
 RPC Endpoint Mapper,Auto,Running
@@ -160,8 +160,8 @@ Windows Audio,Auto,Running
 Windows Biometric Service,Auto,Stopped
 Windows Camera Frame Server,Manual,Stopped
 Windows Connection Manager,Auto,Running
-Windows Defender Network Inspection Service,Manual,Running
-Windows Defender Service,Manual,Running
+Windows Defender Network Inspection Service,Manual,Stopped
+Windows Defender Service,Manual,Stopped
 Windows Driver Foundation - User-mode Driver Framework,Manual,Running
 Windows Encryption Provider Host Service,Manual,Stopped
 Windows Error Reporting Service,Manual,Stopped
